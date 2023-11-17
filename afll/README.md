@@ -14,6 +14,8 @@ If you notice, in java + is used as a concatenation symbol in the print statemen
 it is mentioned separately in the lexer token rules. 
 
 For documentation of python ply tool follow the link. [https://www.dabeaz.com/ply/ply.html]
+P.S disable pylint if you have the extension on your platform, else follow the method described in the documentation. 
+P.P.S you can't input a multi line code... you can make necessary changes if you wish to
 
 
 
